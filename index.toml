@@ -1,0 +1,175 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
+
+[[files]]
+file = "mods/alfheim-lighting-engine.pw.toml"
+hash = "b4e662faca920c7df240374228288851ad330d1d00c2b3f9a71008ac9fb6863a"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
+metafile = true
+
+[[files]]
+file = "mods/aqua-acrobatics.pw.toml"
+hash = "a4cd331969ff23c1c7fe42c126c41541f407c9f5aa71613cfbe2bea6a269f80f"
+metafile = true
+
+[[files]]
+file = "mods/aroma1997core.pw.toml"
+hash = "e111fd8717b5a9143d41d53e50c7c16f80ab074d76e256094229070b942b4cd3"
+metafile = true
+
+[[files]]
+file = "mods/aromabackup.pw.toml"
+hash = "7e2c5d0cf480bf53156085e3036ae07f1506ab39e771afa3dc95bf4b8d7df763"
+metafile = true
+
+[[files]]
+file = "mods/carbon-config.pw.toml"
+hash = "ba3c7e8e07954fe95f568d934a014a752ef05b0230cbf285c2c104b03b4044ca"
+metafile = true
+
+[[files]]
+file = "mods/chunkpregenerator.pw.toml"
+hash = "575824c005d5e0200e199224bd107f23728e04ea03ff2f5be05f642a535cb410"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
+metafile = true
+
+[[files]]
+file = "mods/configanytime.pw.toml"
+hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "7e83c30351673c4e992a3894c34b49c9cd9ef585ddf6ff21d5f10c05255b7638"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks-unofficial.pw.toml"
+hash = "e5fcda70b8ea1265a35520c4838fc975c5f8926d440c98e4237989f1aea36588"
+metafile = true
+
+[[files]]
+file = "mods/entity-culling.pw.toml"
+hash = "28f3104079a644a1dc5ac037880777e5eb7de613917f5164f7e09ed3a90c734a"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "42cd900aec0948e2096efe476bdcfe63eab64c801f6f75f97d49821d5335c864"
+metafile = true
+
+[[files]]
+file = "mods/had-enough-items.pw.toml"
+hash = "0fd23ea4700abb69c68b7aab359cba398c199ab16a5f90bf4ec90d170654721a"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.pw.toml"
+hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "06788fe0f37434b829757e4df2add84180496c3de12565bcc4098d05c2d68bba"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks.pw.toml"
+hash = "260f17df66f36ac79ab67ba721c28f868c09a32c9c858649f9971f9147cf6e21"
+metafile = true
+
+[[files]]
+file = "mods/jei-integration.pw.toml"
+hash = "c22915e1e0104cc0b2298fa3b1edb6b6c512a3e464bdc96c3053192550c00612"
+metafile = true
+
+[[files]]
+file = "mods/lolasm.pw.toml"
+hash = "d2c61d32b03991d8aa5538fa36e99e84b4932bfacd25df098e74af26af949e41"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "f50f6d7f8fb9a8cbeaa61b2ef04d0028d0999af789ae6946d769b66a0464bc2b"
+metafile = true
+
+[[files]]
+file = "mods/mixinbootstrap.pw.toml"
+hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks-unofficial.pw.toml"
+hash = "478e8dc41c1387d145dd42cf3f2cc681df78c94c9826ad1655906789d799a7bf"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "ca1634e59dcd2f459e328c0ac728c521b45c09fe728396670ac8fdf453272686"
+metafile = true
+
+[[files]]
+file = "mods/particle-culling.pw.toml"
+hash = "d53f1df440a6225c8e4c713a361701e0c73c0f7ab432fe8287b5ffa6b0af5947"
+metafile = true
+
+[[files]]
+file = "mods/red-core.pw.toml"
+hash = "7885bb8ac4efe4c49f9783812d77fe878352e9442f988199f48f55cf1616ac7f"
+metafile = true
+
+[[files]]
+file = "mods/renderlib.pw.toml"
+hash = "c7ddef34666ce7837957d261422a0e8252fcdc3dd8fbd6ab3ed470c43541a01b"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "c0ff746ae95ee4ec873a59c6a33c7b650d261073140888412eb6f0884dfc2a5e"
+metafile = true
+
+[[files]]
+file = "mods/universal-tweaks.pw.toml"
+hash = "4f2be4a9451756453a8c654b5cf127dc25427ede6b5dba469c138ac6023f8cd5"
+metafile = true
+
+[[files]]
+file = "mods/vintagefix.pw.toml"
+hash = "d4b265db96d54164964d11bddc7a1abc78777e56850b1d94683febb7d8009cf4"
+metafile = true
+
+[[files]]
+file = "mods/waila-harvestability.pw.toml"
+hash = "57dcdf70cea23a3a1d9f4f12594dc624fb3bb3e0c0fbb2aa4a2a1f817b345816"
+metafile = true
+
+[[files]]
+file = "mods/wawla.pw.toml"
+hash = "dc1ee5d5a602f9cc633d511a4d00e2e0e7189d6135fd11343bf76e9f47aa2d07"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "fc7e280ccf58526997ca868fc7361e272d56121e2bb3a531d4b2f7f4fc120e5d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "e992a4de387e5a5b26ed992b6588e74e591cb2cc53bd6f00d7aac9d8e4164840"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "2bc6c1e3c15e7baf16a032eef3beefe5a23f7305f65fe03015063272a18b9ef4"
+metafile = true
